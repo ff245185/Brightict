@@ -9,26 +9,26 @@ import CourseCard from "./CourseCard";
 const coursesData = [
   {
     id: "01",
-    title: "Web Design BootCamp-2022 for Beginners",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    title: "HSC 23 Academic To Admission ICT book full couse",
+    lesson: 180,
+    students: 12,
+    rating: 6,
     imgUrl: courseImg1,
   },
 
   {
     id: "02",
     title: "Professional Graphics Design, PhotoShop, Adobe XD, Figma",
-    lesson: 12,
+    lesson: 75,
     students: 12.5,
-    rating: 5.9,
+    rating: 5.8,
     imgUrl: courseImg2,
   },
 
   {
     id: "03",
-    title: "UI/UX BootCamp for Beginners in 2022",
-    lesson: 12,
+    title: "UI/UX and frontend web development Beginners to advanced",
+    lesson: 69,
     students: 12.5,
     rating: 5.9,
     imgUrl: courseImg3,
@@ -43,11 +43,11 @@ const Courses = () => {
           <Col lg="12" className="mb-5">
             <div className="course__top d-flex justify-content-between align-items-center">
               <div className="course__top__left w-50">
-                <h2>Our Popular Courses</h2>
+                <h2>Our Main Courses</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                 Empowering Success: Three Essential Courses for HSC Achievement and Real-Life Triumph
+                 Unlocking Potential: The Triad of Courses for HSC and Lifelong Success
+                 Pathway to Excellence: Completing Three Courses for HSC and Real-World Prosperity
                 </p>
               </div>
 

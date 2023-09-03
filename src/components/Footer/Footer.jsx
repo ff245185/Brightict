@@ -52,14 +52,14 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Learners.
+              <i class="ri-pantone-line"></i> BRIGHTICT
             </h2>
 
             <div className="follows">
               <p className="mb-0">Follow us on social media</p>
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="https://www.facebook.com/brightictcenter" target="_blank">
                   <i class="ri-facebook-line"></i>
                 </a>
               </span>
@@ -114,9 +114,11 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
-            <p> Phone: +88 0123456789 </p>
-            <p>Email: example@gmail.com</p>
+            <p>Address: Second floors behind Maheshpur 
+                       Government Degree College.
+                       Maheshpur,jhenaidah, Bangladesh.</p>
+            <p> Phone: +88 01706-463738</p>
+            <p>Email: Brightict96@gmail.com</p>
           </Col>
         </Row>
       </Container>

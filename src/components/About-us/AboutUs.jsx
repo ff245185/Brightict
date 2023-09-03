@@ -18,11 +18,12 @@ const AboutUs = () => {
 
           <Col lg="6" md="6">
             <div className="about__content">
-              <h2>About Us</h2>
+              <h2>Our Target</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              .Guaranteed ICT Excellence: A+ Grant Program <br/>
+              .Navigating the Digital Frontier: Exploring the Synergy of Programming and ICT <br/>
+              .Unleashing the Potential: Programming's Role in Shaping the ICT Landscape <br/>
+              .Coding the Future: Harnessing ICT with Proficient Programming <br/>
               </p>
 
               <div className="about__counter">

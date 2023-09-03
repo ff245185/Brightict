@@ -4,6 +4,14 @@
   line-height: 80px;
 }
 
+
+.ictno{
+  color: black;
+  text-decoration: none;
+}
+.ictno:hover{
+  color: black;
+}
 .nav__list {
   margin: 0;
   padding: 0;
